@@ -8,11 +8,7 @@ Problem Statement:  Write a Python program that:
 Expected Output:
 The program should return an output like:
 
-
-
-
-
-
+<img src="Assgn2Task1.jpeg" alt="Task 1" width="400"/>
 
 
 **Task 2: Sum of Integers from 1 to 50 Using a Loop**
@@ -25,4 +21,5 @@ Problem Statement: Write a Python program that:
 Expected Output:
 The program should return:
  
- 
+ <img src="Assgn2Task2.jpeg" alt="Task 1" width="400"/>
+
